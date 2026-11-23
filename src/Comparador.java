@@ -1,6 +1,6 @@
 
-public class OpLogicos {
+public class Comparador {
     static void main() {
-        
+
     }
 }
